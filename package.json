@@ -2,7 +2,7 @@
   "name": "react-task-tracker",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://josephpellerin.github.io/Task-Tracker",
+  "homepage": "https://josephpellerin.github.io/Task-Tracking-app",
   "dependencies": {
     "@testing-library/jest-dom": "^5.15.0",
     "@testing-library/react": "^11.2.7",
